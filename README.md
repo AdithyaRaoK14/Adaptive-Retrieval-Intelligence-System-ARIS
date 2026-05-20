@@ -1,9 +1,9 @@
 # Adaptive-Retrieval-Intelligence-System-ARIS
 
 
-![Tests](https://github.com/AdithyaRaoK14/Adaptive-RAG-Inference-System/actions/workflows/tests.yml/badge.svg)
+![Tests](https://github.com/AdithyaRaoK14/Adaptive-Retrieval-Intelligence-System-ARIS/actions/workflows/tests.yml/badge.svg)
 
-An advanced Retrieval-Augmented Generation (RAG) system that dynamically adapts retrieval depth, retrieval strategy, caching, and model routing at inference time for faster and higher-quality responses.
+An adaptive Retrieval-Augmented Generation (RAG) inference system that dynamically adjusts retrieval depth, retrieval strategy, caching, and model routing at inference time for faster and higher-quality responses.
 
 Built with:
 - FAISS vector search
@@ -171,7 +171,7 @@ Streamlit dashboard includes:
 
 ## Dashboard UI
 
-![NeuroRAG Dashboard](Screenshots/Result.png)
+![Adaptive Retrieval Intelligence System Dashboard](Screenshots/Result.png)
 
 The Streamlit dashboard provides:
 - Live adaptive retrieval visualization
@@ -188,7 +188,7 @@ The Streamlit dashboard provides:
 # Project Structure
 
 ```text
-NeuroRAG-Adaptive-Engine/
+Adaptive-Retrieval-Intelligence-System-ARIS/
 │
 ├── adaptive/
 │   ├── cache.py
