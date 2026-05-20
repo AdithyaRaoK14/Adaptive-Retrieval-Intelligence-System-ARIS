@@ -245,8 +245,8 @@ NeuroRAG-Adaptive-Engine/
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/AdithyaRaoK14/Adaptive-RAG-Inference-System.git
-cd Adaptive-RAG-Inference-System
+git clone https://github.com/AdithyaRaoK14/Adaptive-Retrieval-Intelligence-System-ARIS.git
+cd Adaptive-Retrieval-Intelligence-System-ARIS
 ```
 
 ---
