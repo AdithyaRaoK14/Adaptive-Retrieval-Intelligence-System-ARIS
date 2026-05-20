@@ -428,19 +428,6 @@ Explain how Transformers replaced RNNs.
 
 ---
 
-# Future Improvements
-
-- Cross-encoder reranking
-- Multi-modal RAG
-- Persistent vector database
-- Distributed retrieval
-- Knowledge graph integration
-- GPU acceleration
-- Agentic query planning
-- Multi-user deployment
-
----
-
 # Test Coverage
 
 The project includes tests for:
